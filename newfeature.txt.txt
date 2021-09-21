@@ -1,1 +1,2 @@
-To jest zmaiana na masterze.
+To jest zmiana na pliku newfeature
+
